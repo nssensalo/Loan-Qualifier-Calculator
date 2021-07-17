@@ -39,7 +39,7 @@ Then import the following:
 
 To use the Qualifier Calculator clone the repository, run in command line, follow prompts and answer questions. After you are given the number of banks you qualify for you'll be asked if you want to save this information to a file. 
 
-![Sample](C:\Users\nssen\Pictures\Screenshots(28).png)
+![Sample](READmephoto.png)
 
 
 
